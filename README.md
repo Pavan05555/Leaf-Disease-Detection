@@ -34,9 +34,3 @@ How to Use:
 3. Run the leaf_disease_detection.py script to start the webcam-based disease detection.
 
 
-
-
----
-
-Feel free to update the README based on any additional details or instructions you want to add!
-
