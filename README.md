@@ -33,4 +33,7 @@ How to Use:
 
 3. Run the leaf_disease_detection.py script to start the webcam-based disease detection.
 
+4. I have taken the dataset from kaggle the link is here https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+     you can download the dataset from here and train the model
+
 
